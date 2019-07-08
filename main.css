@@ -1,0 +1,23 @@
+.pageHeader {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 25px;
+}
+
+.list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+section {
+  /* border: 1px dotted red; */
+}
+
+.shop {
+  width: 30%;
+  height: 25px;
+  display: flex;
+  align-items: center;
+}
